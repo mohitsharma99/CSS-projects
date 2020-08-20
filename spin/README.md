@@ -1,3 +1,3 @@
 # Spin Animation
-![Alt text](rings.gif) / ![](rings.gif)
+![](rings.gif)
 
