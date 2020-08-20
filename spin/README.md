@@ -1,1 +1,1 @@
-Spin project
+Spin Animation
