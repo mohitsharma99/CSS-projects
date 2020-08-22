@@ -1,2 +1,2 @@
 # Running car
-![] (car.gif)
+![](car.gif)
